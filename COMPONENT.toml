@@ -3,7 +3,7 @@ name = "SigmaOS-buildroot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "buildroot component"
+description = "Buildroot"
 upstream = []
 
 [contract]
